@@ -1,7 +1,7 @@
 # Análise de Dados e Previsão de Diabetes em Pacientes
 
-**Autores**: [Seus Nomes Aqui]  
-**Data**: [Data de Entrega]  
+**Autores**: Daniele de Almeida Silva
+**Data**: 14/07/2025
 
 ## Objetivo do Trabalho
 
